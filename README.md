@@ -5,9 +5,12 @@ A simple web interface for keeping track of items in an entertainment collection
 
 
 ## todos
- - [ ] install rails and ruby
- - [ ] generate new rails app
- - [ ] start rails server locally
+ - [x] install rails and ruby
+ - [x] generate new rails app
+ - [x] start rails server locally
+       > `rails s`, uri: `localhost:3000`
+       > `rails c`
+ - [ ] update home page
  - [ ] push app to heroku
  - [ ] create models
  - [ ] create controllers
