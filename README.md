@@ -10,13 +10,16 @@ A simple web interface for keeping track of items in an entertainment collection
  - [x] start rails server locally
        * `rails s`, uri: `localhost:3000`
        * `rails c`
- - [ ] update home page
+ - [x] update home page
+ 
+ - [ ] create user model 
+ - [ ] be able to login with user
+ - [ ] create media model
+ - [ ] be able to create/read/update/destroy media items
+ 
  - [ ] push app to heroku
- - [ ] create models
- - [ ] create controllers
- - [ ] user login
- - [ ] views
- - [ ] 
+ - [ ] views for mobile
+
 
 
 
