@@ -17,7 +17,7 @@ group :development, :test do
 end
 
 group :test do
-	gem 'capybara'
+  gem 'capybara'
 end
 
 # Use SCSS for stylesheets
@@ -42,8 +42,8 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 
 group :production do
-	gem 'pg', '0.17.1'
-	gem 'rails_12factor', '0.0.2'
+  gem 'pg', '0.17.1'
+  gem 'rails_12factor', '0.0.2'
 end
 
 # Use ActiveModel has_secure_password
