@@ -9,11 +9,11 @@ gem 'sprockets'
 
 # Use sqlite3 as the database for Active Record
 group :development, :test do
-	gem 'sqlite3'
-	gem 'rspec-rails'
-	gem 'spork-rails'
-	gem 'guard-spork'
-	gem 'childprocess'
+  gem 'sqlite3'
+  gem 'rspec-rails'
+  gem 'spork-rails'
+  gem 'guard-spork'
+  gem 'childprocess'
 end
 
 group :test do
