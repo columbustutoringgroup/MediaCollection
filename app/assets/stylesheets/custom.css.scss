@@ -113,3 +113,23 @@ footer {
   margin-top: 45px;
   @include box_sizing;
 }
+
+
+
+/* forms */
+
+input, textarea, select, .uneditable-input {
+  border: 1px solid #bbb;
+  width: 50%;
+  margin-bottom: 15px;
+  @include box_sizing;
+}
+
+label {
+  width: 25%;
+
+}
+
+input {
+  height: auto !important;
+}
